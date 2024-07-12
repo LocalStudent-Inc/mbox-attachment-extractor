@@ -1,5 +1,9 @@
 # mbox Attachment Extractor
 
+## Attribution
+
+These scripts were originally made by Muhammad Sadman Hossain, July 11th, 2024.
+
 ## Overview
 
 This Python script (`extract.py`) is designed to parse `.mbox` files containing email messages, extract attachments from those emails, and optionally save each email as an individual `.mbox` file in corresponding folders. It provides a command-line interface (CLI) to customize its behavior based on various options.
